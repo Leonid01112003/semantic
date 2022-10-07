@@ -15,3 +15,10 @@ font-size: 18px;
 line-height: 28px;
 color: darkslategray;
 }
+
+h2, p {
+
+padding: 7px;
+}
+
+section {border: 2px solid wheat;}
